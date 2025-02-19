@@ -1,0 +1,44 @@
+[
+  {
+    "name": "Authentication System for Secure Web Applications",
+    "desc": "Engineered a secure and scalable authentication system integrating user registration, login, and password recovery functionalities.",
+    "image": "auth",
+    "category": "MERN",
+    "links": {
+      "view": "https://rakeshsecure-authentication.onrender.com",
+      "code": "https://github.com/Rakeshkumarsahugithub/EcommerceAuth"
+    }
+  },
+  {
+    "name": "Secure Admin CRUD Operations for E-Commerce Platforms",
+    "desc": "Building a MERN-based E-Commerce Application with Secure User Authentication and Product CRUD Operations using MongoDB.",
+    "image": "signup",
+    "category": "MERN",
+    "links": {
+      "view": "https://rakeshcrud-operations.vercel.app",
+      "code": "https://github.com/Rakeshkumarsahugithub/CRUD-Operations"
+    }
+  },
+  {
+    "name": "Centralized Kitchen Operations Management",
+    "desc": "Centralized Kitchen Operations Management is a system that streamlines and monitors all kitchen workflows, including User Management, Product Management and Order Management.",
+    "image": "kitchen",
+    "category": "Basic",
+    "links": {
+      "view": "https://rakeshkumarsahugithub.github.io/Kitchen-adminPanel",
+      "code": "https://github.com/Rakeshkumarsahugithub/Kitchen-adminPanel"
+    }
+  },
+  {
+    "name": "Quiz App",
+    "desc": "Rakesh's Quiz is an interactive web-based quiz app that tests your knowledge on HTML, CSS, and JavaScript, offering instant feedback and a retake option.",
+    "image": "quiz",
+    "category": "Basic",
+    "links": {
+      "view": "https://rakeshkumarsahugithub.github.io/QuizApp",
+      "code": "https://github.com/Rakeshkumarsahugithub/QuizApp"
+    }
+  }
+ 
+ 
+]

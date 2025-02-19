@@ -1,0 +1,132 @@
+[
+    {
+        "name": "ReactJS",
+        "icon": "https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/000000/external-react-a-javascript-library-for-building-user-interfaces-logo-color-tal-revivo.png"
+    },
+    {
+        "name": "ExpressJS",
+        "icon": "https://img.icons8.com/fluency/48/000000/node-js.png"
+    },
+    {
+        "name": "NodeJS",
+        "icon": "https://img.icons8.com/color/48/000000/nodejs.png"
+    },
+   
+    {
+        "name": "MaterialUI",
+        "icon": "https://img.icons8.com/color/48/000000/material-ui.png"
+    },
+    {
+        "name": "ChakraUI",
+        "icon": "https://img.icons8.com/color/48/000000/chakra-ui.png"
+    },
+    {
+        "name": "TailwindCSS",
+        "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/48px-Tailwind_CSS_Logo.png"
+    },
+    {
+        "name": "Bootstrap",
+        "icon": "https://img.icons8.com/color/48/000000/bootstrap.png"
+    },
+   
+    {
+        "name": "HTML5",
+        "icon": "https://img.icons8.com/color/48/000000/html-5--v1.png"
+    },
+    {
+        "name": "CSS3",
+        "icon": "https://img.icons8.com/color/48/000000/css3.png"
+    },
+    {
+        "name": "JavaScript",
+        "icon": "https://img.icons8.com/color/48/000000/javascript--v1.png"
+    },
+    {
+        "name": "Java",
+        "icon": "https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png"
+    },
+
+    {
+        "name": "MongoDB",
+        "icon": "https://img.icons8.com/color/48/000000/mongodb.png"
+    },
+    {
+        "name": "MySQL",
+        "icon": "https://img.icons8.com/color/48/000000/mysql-logo.png"
+    },
+   
+    {
+        "name": "AWS",
+        "icon": "./assets/images/aws-color.png"
+    },
+    {
+        "name": "Docker",
+        "icon": "https://img.icons8.com/color/48/docker.png"
+    },
+    {
+        "name": "Netlify",
+        "icon": "https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/000000/external-netlify-a-cloud-computing-company-that-offers-hosting-and-serverless-backend-services-for-static-websites-logo-shadow-tal-revivo.png"
+    },
+  
+   
+    {
+        "name": "Git",
+        "icon": "https://img.icons8.com/color/48/000000/git.png"
+    },
+    {
+        "name": "GitHub",
+        "icon": "https://img.icons8.com/glyph-neue/48/ffffff/github.png"
+    },
+    {
+        "name": "Figma",
+        "icon": "./assets/images/figma.png"
+    },
+    {
+        "name": "Uiverseio",
+        "icon": "./assets/images/uiversee.io.jpg"
+    },
+    {
+        "name": "Postman",
+        "icon": "./assets/images/postman.png"
+    },
+    {
+        "name": "Chatgpt",
+        "icon": "./assets/images/chatgpt.png"
+    },
+    {
+        "name": "Deepseek",
+        "icon": "./assets/images/deepseekk.jpg"
+    },
+    {
+        "name": "JWT",
+        "icon": "https://img.icons8.com/color/48/java-web-token.png"
+    },
+    {
+        "name": "Bcryptjs",
+        "icon": "./assets/images/bcrt.jpeg"
+    },
+    {
+        "name": "OAuth2.0",
+        "icon": "./assets/images/Oauth.png"
+    },
+    
+    {
+        "name": "GitHub Actions",
+        "icon": "./assets/images/gitact.png"
+    },
+   
+    {
+        "name": "RestAPI",
+        "icon": "./assets/images/Res.png"
+    },
+    {
+        "name": "Render",
+        "icon": "./assets/images/render.png"
+    },
+    {
+        "name": "Nodemailer",
+        "icon": "./assets/images/d1995000-0ab7-11ea-8ed3-04a082c3.png"
+    }
+      
+      
+]
