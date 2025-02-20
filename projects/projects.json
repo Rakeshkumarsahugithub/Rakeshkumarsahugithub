@@ -21,7 +21,7 @@
   },
   {
     "name": "Centralized Kitchen Operations Management",
-    "desc": "Centralized Kitchen Operations Management is a system that streamlines and monitors all kitchen workflows, including User Management, Product Management and Order Management.",
+    "desc": "Centralized Kitchen Operations Management is a system that streamlines and monitors all kitchen workflows.",
     "image": "kitchen",
     "category": "Basic",
     "links": {
