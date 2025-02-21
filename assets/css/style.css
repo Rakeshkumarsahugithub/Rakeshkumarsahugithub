@@ -92,6 +92,11 @@ header .logo {
   text-decoration: none;
   color: #0e2431;
 }
+header .logo span {
+  position: relative; /* Allow positioning relative to its normal position */
+  top: -15px; /* Move the logo up by 10px */
+}
+
 
 
 header .logo:hover {
