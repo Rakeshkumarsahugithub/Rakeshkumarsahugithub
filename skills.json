@@ -82,8 +82,8 @@
         "icon": "./assets/images/figma.png"
     },
     {
-        "name": "Uiverseio",
-        "icon": "./assets/images/uiversee.io.jpg"
+        "name": "jQuery",
+        "icon": "https://img.icons8.com/ios-filled/48/1169ae/jquery.png"
     },
     {
         "name": "Postman",
