@@ -7,6 +7,10 @@
         "name": "Redux",
         "icon": "https://img.icons8.com/color/48/000000/redux.png"
     },
+     {
+        "name": "Zustand",
+        "icon": "./assets/images/Zustand.png"
+    },
     {
         "name": "ExpressJS",
         "icon": "https://img.icons8.com/fluency/48/000000/node-js.png"
@@ -67,12 +71,7 @@
         "name": "Docker",
         "icon": "https://img.icons8.com/color/48/docker.png"
     },
-    {
-        "name": "Netlify",
-        "icon": "https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/000000/external-netlify-a-cloud-computing-company-that-offers-hosting-and-serverless-backend-services-for-static-websites-logo-shadow-tal-revivo.png"
-    },
-  
-   
+    
     {
         "name": "Git",
         "icon": "https://img.icons8.com/color/48/000000/git.png"
