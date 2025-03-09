@@ -3,6 +3,10 @@
         "name": "ReactJS",
         "icon": "https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/000000/external-react-a-javascript-library-for-building-user-interfaces-logo-color-tal-revivo.png"
     },
+     {
+        "name": "Redux",
+        "icon": "https://img.icons8.com/color/48/000000/redux.png"
+    },
     {
         "name": "ExpressJS",
         "icon": "https://img.icons8.com/fluency/48/000000/node-js.png"
@@ -119,10 +123,7 @@
         "name": "RestAPI",
         "icon": "./assets/images/Res.png"
     },
-    {
-        "name": "Render",
-        "icon": "./assets/images/render.png"
-    },
+   
     {
         "name": "Nodemailer",
         "icon": "./assets/images/d1995000-0ab7-11ea-8ed3-04a082c3.png"
